@@ -10,11 +10,7 @@
     - Fetches data, provides smart caching, enriches findings with CVSS scores from the NVD API, and exports results to JSON/CSV.
     - *Originally developed as a technical challenge for a SOC/Blue Team internship interview.*
 
-- <b>Data Structures and Algorithms</b>
-  - [AlgoExpert Practice](https://github.com/antoineburet) - Practice and solutions for various data structures and algorithm problems.
-
-- <b>Other Development</b>
-  - [C# .NET Desktop Applications](https://github.com/antoineburet) - [PowerShell Scripts](https://github.com/antoineburet) <h2> 🤳 Connect with me</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
