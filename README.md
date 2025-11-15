@@ -15,7 +15,7 @@
 <p>I started my hands-on cybersecurity journey on <a href="https://tryhackme.com/p/Nyota0">TryHackMe</a> on Monday, November 10, 2025. Here are my live stats:</p>
 
 <a href="https://tryhackme.com/p/Nyota0">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Nyota0.png" alt="TryHackMe badge for Nyota0" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Nyota0.png?v=1" alt="TryHackMe badge for Nyota0" />
 </a>
 
 <h2> 🤳 Connect with me</h2>
