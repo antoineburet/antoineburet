@@ -10,6 +10,14 @@
     - Fetches data, provides smart caching, enriches findings with CVSS scores from the NVD API, and exports results to JSON/CSV.
     - *Originally developed as a technical challenge for a SOC/Blue Team internship interview.*
 
+<h2>🎓 Cybersecurity Learning & Stats</h2>
+
+<p>I started my hands-on cybersecurity journey on <a href="https://tryhackme.com/p/Nyota0">TryHackMe</a> on Monday, November 10, 2025. Here are my live stats:</p>
+
+<a href="https://tryhackme.com/p/Nyota0">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Nyota0.png" alt="TryHackMe badge for Nyota0" />
+</a>
+
 <h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
