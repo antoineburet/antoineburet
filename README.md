@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Python | API | Threat Intelligence</b>
-  - [<b>CISA KEV Analyzer</b>](https://github.com/antoineburet/CISA-KEV-Analyzer)
+  - [<b>CISA KEV Analyzer</b>](https://github.com/antoineburet/cisa-kev-analyzer)
     - A command-line tool to query, analyze, and enrich the CISA Known Exploited Vulnerabilities (KEV) catalog.
     - Fetches data, provides smart caching, enriches findings with CVSS scores from the NVD API, and exports results to JSON/CSV.
     - *Originally developed as a technical challenge for a SOC/Blue Team internship interview.*
